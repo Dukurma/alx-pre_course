@@ -1,3 +1,2 @@
-readme full
-Boss 
+Pre_course readme 
 
